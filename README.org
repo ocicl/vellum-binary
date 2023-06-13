@@ -4,7 +4,7 @@ A custom, binary, file format for VELLUM library.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-binary.git   |
-| commit  | {"messa  |
+| commit  | 032bf6d  |
 | systems | vellum-binary |
 |---------+-------------------------------------------|
 
