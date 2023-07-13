@@ -2,9 +2,8 @@
 
 A custom, binary, file format for VELLUM library.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sirherrbatka/vellum-binary.git   |
-| commit  | 032bf6d  |
-| systems | vellum-binary |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/vellum-binary.git |
+| commit  | 032bf6d                                               |
+| systems | vellum-binary                                         |
+|---------+-------------------------------------------------------|
