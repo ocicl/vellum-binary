@@ -4,6 +4,6 @@ A custom, binary, file format for VELLUM library.
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-binary.git |
-| commit  | 84c957b                                               |
+| commit  | b9b97aa                                               |
 | systems | vellum-binary                                         |
 |---------+-------------------------------------------------------|
